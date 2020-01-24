@@ -1,9 +1,7 @@
 # Prueba SSH
 
-# Esto es una prueba
-
-# Ivan Alexis Carbajal Sandin
 ## Esto es una prueba
+
 
 Luis Castro
 isai
@@ -12,4 +10,3 @@ Pedro Orellana
 GILBERTO
 Raul Rodriguez
 
-Luis Castro 
